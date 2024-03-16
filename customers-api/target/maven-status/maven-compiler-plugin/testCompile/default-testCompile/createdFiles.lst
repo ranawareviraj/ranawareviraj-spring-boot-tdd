@@ -1,0 +1,4 @@
+org/example/customerservice/api/WisdomPetApiApplicationTests.class
+org/example/customerservice/api/web/controller/CustomerControllerTest.class
+org/example/customerservice/api/service/CustomerServiceTest.class
+org/example/customerservice/api/service/CustomerServiceIntegrationTest.class
